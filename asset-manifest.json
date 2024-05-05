@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Smishing-Buster/static/css/main.1c7aab74.css",
-    "main.js": "/Smishing-Buster/static/js/main.8f11d22e.js",
+    "main.css": "/Smishing-Buster/static/css/main.19ab21e5.css",
+    "main.js": "/Smishing-Buster/static/js/main.9af9f346.js",
     "static/media/demo.mp4": "/Smishing-Buster/static/media/demo.2372def5313f62c9eb67.mp4",
     "static/media/step-three-image.png": "/Smishing-Buster/static/media/step-three-image.2589f143eb82b2f34916.png",
     "static/media/step-two-image.png": "/Smishing-Buster/static/media/step-two-image.3d13ef516028c81212ea.png",
@@ -9,11 +9,11 @@
     "static/media/step-one-image.png": "/Smishing-Buster/static/media/step-one-image.c5a70764b46c95dde6c4.png",
     "static/media/solution.png": "/Smishing-Buster/static/media/solution.0da052b890770b95be26.png",
     "index.html": "/Smishing-Buster/index.html",
-    "main.1c7aab74.css.map": "/Smishing-Buster/static/css/main.1c7aab74.css.map",
-    "main.8f11d22e.js.map": "/Smishing-Buster/static/js/main.8f11d22e.js.map"
+    "main.19ab21e5.css.map": "/Smishing-Buster/static/css/main.19ab21e5.css.map",
+    "main.9af9f346.js.map": "/Smishing-Buster/static/js/main.9af9f346.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c7aab74.css",
-    "static/js/main.8f11d22e.js"
+    "static/css/main.19ab21e5.css",
+    "static/js/main.9af9f346.js"
   ]
 }
