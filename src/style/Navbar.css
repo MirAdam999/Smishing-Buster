@@ -22,6 +22,7 @@
 #chosen-page:hover {
     background-color: var(--blue);
     color: white;
+    cursor: pointer;
 }
 
 #chosen-page {
