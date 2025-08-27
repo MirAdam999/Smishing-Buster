@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Smishing-Buster/static/css/main.7cc0cb51.css",
-    "main.js": "/Smishing-Buster/static/js/main.f9c24cd8.js",
+    "main.css": "/Smishing-Buster/static/css/main.b8871ef1.css",
+    "main.js": "/Smishing-Buster/static/js/main.41776adb.js",
     "static/media/demo.mp4": "/Smishing-Buster/static/media/demo.8d383d525517b7a020cf.mp4",
     "static/media/step-three-image.png": "/Smishing-Buster/static/media/step-three-image.2589f143eb82b2f34916.png",
     "static/media/link.jpg": "/Smishing-Buster/static/media/link.a219ec4fa76dbea77f11.jpg",
@@ -12,11 +12,11 @@
     "static/media/incoming-text.jpg": "/Smishing-Buster/static/media/incoming-text.124649d4091bef5caf00.jpg",
     "static/media/report.png": "/Smishing-Buster/static/media/report.186aee937b0c9c4b0fb6.png",
     "index.html": "/Smishing-Buster/index.html",
-    "main.7cc0cb51.css.map": "/Smishing-Buster/static/css/main.7cc0cb51.css.map",
-    "main.f9c24cd8.js.map": "/Smishing-Buster/static/js/main.f9c24cd8.js.map"
+    "main.b8871ef1.css.map": "/Smishing-Buster/static/css/main.b8871ef1.css.map",
+    "main.41776adb.js.map": "/Smishing-Buster/static/js/main.41776adb.js.map"
   },
   "entrypoints": [
-    "static/css/main.7cc0cb51.css",
-    "static/js/main.f9c24cd8.js"
+    "static/css/main.b8871ef1.css",
+    "static/js/main.41776adb.js"
   ]
 }
