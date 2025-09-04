@@ -9,9 +9,8 @@
 
 <h2>Demo</h2>
 <a href="https://MirAdam999.github.io/Smishing-Buster/">Live Demo</a>
-<h3>OR</h3>
-<h4>Avilable on my portfolio website</h4>
-<a href="https://resume-omega-pied.vercel.app/projects?project=2">Video Demo</a>
+<h4>Or</h4>
+<a href="https://resume-omega-pied.vercel.app/projects?project=2">Video Demo-on my portfolio website</a>
 
 <h2>Screenshots</h2>
 
