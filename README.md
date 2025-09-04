@@ -8,10 +8,8 @@
 </p>
 
 <h2>Demo</h2>
-<h3>Live Demo:</h3>
 <a href="https://MirAdam999.github.io/Smishing-Buster/">Live Demo</a>
 <h3>OR</h3>
-<h3>Video Demo:</h3>
 <h4>Avilable on my portfolio website</h4>
 <a href="https://resume-omega-pied.vercel.app/projects?project=2">Video Demo</a>
 
